@@ -50,7 +50,7 @@
          "value": "" 
       },
      "MONGO_URL": {
-         "description": "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority",
+         "description": "",
          "required": true,
          "value": ""
       },
